@@ -1,5 +1,4 @@
 from langchain.prompts import PromptTemplate
-from langchain.chains import LLMChain
 from langchain_openai import OpenAI 
 from dotenv import load_dotenv
 import os
